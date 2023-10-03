@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5hM3kf2F2TLgkS7xNhj6lKnx+3DvjeLEPub04hH2fzTRgHvmXu5z9H77hYVmJMKtjS0DeimumVLW03cnPC6jyA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\eduar\\OneDrive\\Área de Trabalho\\Códigos\\Della\\Hime\\test2\\test2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eduar\\.nuget\\packages\\hime.redist\\3.5.1\\hime.redist.3.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}
